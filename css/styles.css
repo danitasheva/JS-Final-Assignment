@@ -196,6 +196,17 @@ Trips
     left: 0;
 
 }
+.trip-container {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.trip-card {
+    width: 50%;
+    padding: 10px;
+}
 
 /****************************
 Footer section
